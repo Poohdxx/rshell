@@ -1,0 +1,6 @@
+name1=Xiaoxiong Ding
+ucrnetid1=xding003
+name2=
+ucrnetid2=
+repourl=https://www.github.com/Poohdxx/rshell.git
+

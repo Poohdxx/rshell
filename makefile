@@ -13,7 +13,7 @@ CC=g++
 CFLAGS= -Wall -Werror -ansi -pedantic
 
 # build target executable:
-TARGET=main
+TARGET=rshell
 
 all: $(TARGET)
 
